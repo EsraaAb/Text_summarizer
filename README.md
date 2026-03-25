@@ -1,4 +1,4 @@
-# Smart Text Summarizer
+# Text Summarizer
 
 A text summarization tool that runs locally using Ollama. Free, private, no API keys needed.
 
